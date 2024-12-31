@@ -367,11 +367,11 @@ export default function LandingPage() {
 
         {/* Reviews Section */}
         <div className="mt-24">
-          <h2 className="text-center text-3xl font-bold text-gray-900 mb-12">What our <span className="text-blue-500">VA's</span> say</h2>
+          <h2 className="text-center text-3xl font-bold text-gray-900 mb-12">What our <span className="text-blue-500">VA&apos;s</span> say</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Review 1 */}
             <div className="bg-white p-8 rounded-xl shadow-lg">
-              <p className="text-gray-600 mb-6">Working with Callum at VIAA was an exceptional experience. He demonstrated outstanding hands-on support throughout the entire process, from our initial meeting through to successfully matching me with an amazing company/client. His personalized guidance and commitment to his clients' success truly sets him apart.</p>
+              <p className="text-gray-600 mb-6">Working with Callum at VIAA was an exceptional experience. He demonstrated outstanding hands-on support throughout the entire process, from our initial meeting through to successfully matching me with an amazing company/client. His personalized guidance and commitment to his clients&apos; success truly sets him apart.</p>
               <div className="flex items-center">
                 <div>
                   <h3 className="font-semibold text-gray-900">Cydell</h3>
@@ -382,7 +382,7 @@ export default function LandingPage() {
 
             {/* Review 2 */}
             <div className="bg-white p-8 rounded-xl shadow-lg">
-              <p className="text-gray-600 mb-6">The interview process doesn't look or sound like an interview at all! It's just like you're talking to a friend who you haven't met for a long time and giving life updates. The process was fast—I was hired just 3 days after our get-to-know meeting! So glad I met Callum and joined his company.</p>
+              <p className="text-gray-600 mb-6">The interview process doesn&apos;t look or sound like an interview at all! It&apos;s just like you&apos;re talking to a friend who you haven&apos;t met for a long time and giving life updates. The process was fast—I was hired just 3 days after our get-to-know meeting! So glad I met Callum and joined his company.</p>
               <div className="flex items-center">
                 <div>
                   <h3 className="font-semibold text-gray-900">Allen</h3>
@@ -404,7 +404,7 @@ export default function LandingPage() {
 
             {/* Review 4 */}
             <div className="bg-white p-8 rounded-xl shadow-lg">
-              <p className="text-gray-600 mb-6">Choosing to work with VIAA has been one of the best career decisions I've made. I initially hesitated when my brother recommended VIAA, as I hadn't heard of the company before. But from the moment I was interviewed by the owner, Callum, I was impressed. His genuine commitment to supporting his team is unmatched.</p>
+              <p className="text-gray-600 mb-6">Choosing to work with VIAA has been one of the best career decisions I&apos;ve made. I initially hesitated when my brother recommended VIAA, as I hadn&apos;t heard of the company before. But from the moment I was interviewed by the owner, Callum, I was impressed. His genuine commitment to supporting his team is unmatched.</p>
               <div className="flex items-center">
                 <div>
                   <h3 className="font-semibold text-gray-900">Ivan</h3>
@@ -415,7 +415,7 @@ export default function LandingPage() {
 
             {/* Review 5 */}
             <div className="bg-white p-8 rounded-xl shadow-lg">
-              <p className="text-gray-600 mb-6">I've had the pleasure of working under Callum, the founder of VIAA, and it's been a truly exceptional experience. Callum genuinely cares about his team's well-being, going above and beyond to ensure everyone feels supported. He is always proactive in checking in with each team member to see if there's anything they need, which fosters a supportive and effective work environment.</p>
+              <p className="text-gray-600 mb-6">I&apos;ve had the pleasure of working under Callum, the founder of VIAA, and it&apos;s been a truly exceptional experience. Callum genuinely cares about his team&apos;s well-being, going above and beyond to ensure everyone feels supported. He is always proactive in checking in with each team member to see if there&apos;s anything they need, which fosters a supportive and effective work environment.</p>
               <div className="flex items-center">
                 <div>
                   <h3 className="font-semibold text-gray-900">Mark</h3>
@@ -426,7 +426,7 @@ export default function LandingPage() {
 
             {/* Review 6 */}
             <div className="bg-white p-8 rounded-xl shadow-lg">
-              <p className="text-gray-600 mb-6">VIAA's VAs have been instrumental for Geeknowsleads, consistently booking more client meetings and boosting LinkedIn engagement. Their proactive approach and quality service have allowed us to focus on growth, knowing our client outreach is in expert hands.</p>
+              <p className="text-gray-600 mb-6">VIAA&apos;s VAs have been instrumental for Geeknowsleads, consistently booking more client meetings and boosting LinkedIn engagement. Their proactive approach and quality service have allowed us to focus on growth, knowing our client outreach is in expert hands.</p>
               <div className="flex items-center">
                 <div>
                   <h3 className="font-semibold text-gray-900">Geeno</h3>
