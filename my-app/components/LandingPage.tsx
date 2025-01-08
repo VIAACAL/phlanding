@@ -93,7 +93,7 @@ export default function LandingPage() {
         {/* Contact Buttons */}
         <div className="mb-16 flex flex-col sm:flex-row justify-center gap-4">
           <a
-            href="mailto:callum@viaa.agency?subject=Support%20Request&body=Hi%20Callum,%0D%0A%0D%0AI%20need%20help%20with..."
+            href="mailto:callum.viaa@gmail.com?subject=Support%20Request&body=Hi%20Callum,%0D%0A%0D%0AI%20need%20help%20with..."
             className="flex items-center justify-center gap-2 bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-600 transition-colors"
           >
             <Mail className="h-5 w-5" />
